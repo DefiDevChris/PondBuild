@@ -1,0 +1,6 @@
+{
+  "name": "Pond Blueprint Designer",
+  "description": "Architectural 2D blueprint designer on a 20x15 scale grid with organic curved outlines, high-fidelity smoothing, inward shelves, flagstones, and hose pipe length calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
